@@ -1,0 +1,23 @@
+.arrow {
+	width: .5em;
+	height: 5em;
+	display: block;
+	background: #fff;
+	border-radius: 2em;
+	position: relative;
+	margin: 0 auto;
+	&:before, &:after {
+		content: "";
+		position: absolute;
+		width: .5em;
+		height: 3em;
+		transform: rotate(30deg);
+		transform-origin: bottom;
+		bottom: .05em;
+		background: #fff;
+		border-radius: 2em;
+	}
+	&:after {
+		transform: rotate(-30deg);
+	}
+}

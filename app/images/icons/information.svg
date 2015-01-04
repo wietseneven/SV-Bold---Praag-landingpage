@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-360 238.3 120 120" enable-background="new -360 238.3 120 120" xml:space="preserve">
+<rect x="-360" y="238.3" fill="#FFFFFF" width="120" height="120"/>
+<g>
+	<path d="M-296,278.5c0,2.2-1.8,4-4,4c-2.2,0-4-1.8-4-4c0-2.2,1.8-4,4-4C-297.8,274.5-296,276.3-296,278.5z"/>
+	<path d="M-304,294.4h8v24h-8V294.4z"/>
+	<path d="M-300,250.3c-26.5,0-48,21.5-48,48s21.5,48,48,48c26.5,0,48-21.5,48-48C-252,271.8-273.5,250.3-300,250.3z M-292,320.4
+		c0,1.1-0.9,2-2,2h-12c-1.1,0-2-0.9-2-2v-28c0-1.1,0.9-2,2-2h12c1.1,0,2,0.9,2,2V320.4z M-300,286.5c-4.4,0-8-3.6-8-8
+		c0-4.4,3.6-8,8-8c4.4,0,8,3.6,8,8C-292,282.9-295.6,286.5-300,286.5z"/>
+</g>
+</svg>
