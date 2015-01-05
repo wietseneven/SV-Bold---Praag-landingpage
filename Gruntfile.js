@@ -312,6 +312,7 @@ module.exports = function (grunt) {
   ]);
 
   grunt.registerTask('build', [
+	'autoprefixer',
     'clean:dist',
     'copy:server',
     'useminPrepare',
